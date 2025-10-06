@@ -1,4 +1,4 @@
-# Chen's Family secret recipes
+# Chen's clan secret recipes
 
 Set of recipes as given by my grandma.
 
